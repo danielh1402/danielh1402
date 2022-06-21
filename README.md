@@ -1,9 +1,20 @@
 <h1 align="center">Hi, I'm Daniel</h1>
 <h3 align="center">A Full-Stack Web Developer in Spain</h3>
 
+Developer mainly of applications in the web environment with knowledge of backend and frontend. I have always been interested in new technologies world and that is why I decided to study all the fields that computer science fields.
+
+I have knowledge in systems, networks and application programming on multiplatforms (Windows and slightly Android), although my main strength would be web development. I think the future of applications will be in the cloud using web browsers.
+
+I have developed small desktop applications (with Java, .NET and C#) and some mini web projects (with HTML5, CSS3, Javascript, PHP, Flexbox, Grid, Ajax...) connected through database management systems relational databases such as MySQL or Microsoft SQL Server.
+
+Currently I'm learning Angular, nodeJS, Laravel, Symfony and WordPress.
+
+Always ready for new challenges and projects, giving a lot of value to the possibility of remote work.
+
 - 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **danielhb1402@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
