@@ -7,11 +7,10 @@ I have knowledge in systems, networks and application programming on multiplatfo
 
 I have developed small desktop applications (with Java, .NET and C#) and some mini web projects (with HTML5, CSS3, Javascript, PHP, Flexbox, Grid, Ajax...) connected through database management systems relational databases such as MySQL or Microsoft SQL Server.
 
-Currently I'm learning Angular, nodeJS, Laravel, Symfony and WordPress.
-
 Always ready for new challenges and projects, giving a lot of value to the possibility of remote work.
 
-- 🌱 I’m currently learning **Angular**
+
+- 🌱 I’m currently learning **Angular, nodeJS, Laravel, Symfony and WordPress**
 
 - 📫 How to reach me **danielhb1402@gmail.com**
 
