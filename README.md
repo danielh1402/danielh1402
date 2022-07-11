@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Daniel</h1>
+<h1 align="center">Hi, I'm Daniel Hernández</h1>
 <h3 align="center">A Full-Stack Web Developer in Spain</h3>
 
 Developer mainly of applications in the web environment with knowledge of backend and frontend. I have always been interested in new technologies world and that is why I decided to study all the fields that computer science fields.
